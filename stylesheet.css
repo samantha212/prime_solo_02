@@ -1,0 +1,20 @@
+body {
+	background-color: #a8adb4;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+ul {
+	list-style-type: none;
+	background-color: #d2d6d9; 
+	padding: 25px;
+	width: 400px;
+	margin: 0 auto;
+	border-radius: 15px;
+	border: 3px solid #72767c;
+}
+
+li {
+	color: #72767c;
+	font-size: 20px;
+	text-align: center;
+}
